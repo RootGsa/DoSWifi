@@ -1,9 +1,0 @@
-Comandos para iniciar a ferramenta:
-
-git clone https://github.com/RootGsa/Dos.py.git
-
-cd Dos.py
-
-chmod +x DoS.py
-
-python DoS.py
