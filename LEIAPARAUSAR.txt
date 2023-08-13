@@ -1,8 +1,16 @@
 Comandos para iniciar a ferramenta:
 
-chmod +x DoS.py
+- chmod +x DoS.py
 
-python DoS.py
+- python DoS.py
+
+Comandos para ativar modo monitor:
+
+- airmon-ng check
+
+- airmon-ng check kill
+
+- airmon-ng start wlan0mon (ou wlan0)
 
 
 
