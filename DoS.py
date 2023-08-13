@@ -4,6 +4,9 @@ from time import sleep
 print('----------')
 print('DosPy - By Seeker')
 print('----------')
+
+print('Importante! Ferramenta so funcionara se modo monitor estiver ativado!!')
+sleep(3)
  
 interface = str(input('Interface de Rede: '))
 MAC = input('Digite o BSSID da rede:  ')
