@@ -2,7 +2,7 @@ import os
 from time import sleep
 
 print('----------')
-print('DosPy - By Seeker')
+print('DosPy - By RootGsa')
 print('----------')
 
 print('Importante! Ferramenta so funcionara se modo monitor estiver ativado!!')
