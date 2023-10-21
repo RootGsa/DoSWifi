@@ -1,10 +1,14 @@
 import os
 from time import sleep
+import os, sys, time
 
-print('----------')
-print('DosPy - By RootGsa')
-print('----------')
-
+print(' ____       _____ _        ___  __ _')
+print('|  _ \  ___/ ___/\ \      / (_)/ _(_)')
+print('| | | |/ _ \___ \ \ \ /\ / /| | |_| |')
+print('| |_| | (_) |__) | \ V  V / | |  _| |')
+print('|____/ \___/____/   \_/\_/  |_|_| |_|  -  RootGsa')
+sleep(2)
+print('-------------------------------------------------')
 print('Importante! Ferramenta so funcionara se modo monitor estiver ativado!!')
 sleep(3)
  
